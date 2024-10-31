@@ -32,18 +32,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h2 {
-  color: #355c2b;
+  color: #000000;
   font-weight: 600;
 }
 
 h4 {
-  color: #355c2b;
+  color: #000000;
   font-size: 14px;
   font-weight: 600;
 }
 
 a {
-  color: #355c2b;
+  color: #000000;
   text-decoration: none !important;
   -moz-transition: all 0.5s ease-in-out 0s;
   -ms-transition: all 0.5s ease-in-out 0s;
@@ -91,12 +91,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #2c1a0c;
+  background: #355c2b;
   color: #fff;
 }
 
 ::selection {
-  background: #2c1a0c;
+  background: #355c2b;
   color: #fff;
 }
 
